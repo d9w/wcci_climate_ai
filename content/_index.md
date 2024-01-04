@@ -25,7 +25,7 @@ We invite submissions that present recent developments in AI for Climate Science
  + extreme weather events
  + oceans and marine systems
 
-All AI techniques are welcome, from evolutionary computation to deep learning. Submission should focus on the impact of AI to climate science and highlight the relationship to climate change. We encourage submissions to make their data and code publicly available.
+All AI techniques are welcome, from evolutionary computation to deep learning. Submissions should focus on the impact of AI to climate science and highlight the relationship to climate change. We encourage submissions to make their data and code publicly available.
 
 <center>
 <img src="climate_models.png" alt="Improving climate models and predictions by learning from
