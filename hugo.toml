@@ -24,14 +24,9 @@ style = "emacs" # syntax highlight style, see https://xyproto.github.io/splash/d
 # https://gohugo.io/content-management/menus/
 [[menu.main]]
 identifier = "home" # section id
-name = "Home"       # section display title
+name = ""       # section display title
 url = "/"           # path to the section
 weight = 1          # order of sections
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 2
 
 # https://gohugo.io/content-management/taxonomies#configure-taxonomies
 [taxonomies]
@@ -47,7 +42,7 @@ tags = "tags"
 description = "WCCI AI for Climate Science Special Session" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
 footnote = "" # notes in the website footer
-keywords = ["hugo", "latex", "theme"] # website keywords
+keywords = ["climate", "climate change", "climate model", "machine learning", "ai", "artificial intelligence", "ieee"] # website keywords
 
 customCSS = []            # path to custom css files, relative to ./static
 customJS = []             # path to custom js files, relative to ./static
