@@ -6,7 +6,7 @@ draft: false
 
 Artificial Intelligence, and in particular machine learning, is becoming an essential tool for climate modelling. Earth observation data such as satellite observation contribute to a growing record of climate change and weather events, which can be used to build or improve climate models. Deep learning in particular has been widely used in weather forecasting and climate event prediction, such as ENSO. However, other forms of machine learning offer benefits such as interpretability and the integration of physical knowledge from existing climate models. In this Special Session, we invite works on the use of AI for Climate Science; works on climate model parameter optimization, machine learning for climate science, and automated analysis of climate data are welcome.
 
-The AI for Climate Science Special Session will be held as a part of the [WCCI](https://2024.ieeewcci.org/) in Yokohama Japan from June 30 to July 5, 2024.
+The AI for Climate Science Special Session will be held as a part of the [WCCI](https://2024.ieeewcci.org/) in Yokohama Japan from June 30 to July 5, 2024. Details about submission and important dates can be found on their [website](https://2024.ieeewcci.org).
 
 ## Scope
 

@@ -28,15 +28,10 @@ name = "Home"       # section display title
 url = "/"           # path to the section
 weight = 1          # order of sections
 [[menu.main]]
-identifier = "cfp"
-name = "Call for Papers"
-url = "/cfp/"
-weight = 2
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 3
+weight = 2
 
 # https://gohugo.io/content-management/taxonomies#configure-taxonomies
 [taxonomies]
